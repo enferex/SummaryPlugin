@@ -48,4 +48,4 @@ errors when trying to use a plugin built from a different version of clang.
 References
 ----------
 * https://clang.llvm.org/docs/ClangPlugins.html
-* <clang-source>/examples/
+* \<clang-source\>/examples/
