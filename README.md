@@ -43,3 +43,9 @@ Compile using the provided `Makefile`. Ensure that the `CXX`, and `CFG`
 variables are using the desired version of the compiler that you would like to
 use this plugin with.  If not, you will probably discover some gross loader
 errors when trying to use a plugin built from a different version of clang.
+
+
+References
+----------
+* https://clang.llvm.org/docs/ClangPlugins.html
+* <clang-source>/examples/
